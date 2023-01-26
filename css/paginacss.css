@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.principal{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    color: white;
+}
+.izquierda{
+    width: 30%;
+    background-color: rgb(49, 233, 190);
+}
+.derecha{
+    width: 70%;
+    background-color: rgb(153, 180, 181);
+}
